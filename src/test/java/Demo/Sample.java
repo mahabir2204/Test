@@ -8,7 +8,7 @@ public class Sample {
 	    @Test
 		public void Demo2()
 		{
-		   System.out.println("this is new update");
+		   System.out.println("this is new branch ATE");
 		}
 		
 	}
