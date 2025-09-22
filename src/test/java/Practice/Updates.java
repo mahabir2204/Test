@@ -10,6 +10,7 @@ public class Updates {
 	public void sample()
 	{
 		System.out.println("my First Update");
+		System.out.println("new changes");
 	}
 	}
 
